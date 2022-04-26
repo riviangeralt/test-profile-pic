@@ -2,7 +2,6 @@ import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import "../styles/globals.css";
 import "bootstrap/dist/css/bootstrap.css";
-import "../styles/main.css";
 import Head from "next/head";
 import AOS from "aos";
 import "aos/dist/aos.css";
